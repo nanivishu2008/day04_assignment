@@ -1,0 +1,10 @@
+{
+  "name": "day-04-assignment",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix book-finder run dev",
+    "build": "npm --prefix book-finder run build",
+    "preview": "npm --prefix book-finder run preview"
+  }
+}
